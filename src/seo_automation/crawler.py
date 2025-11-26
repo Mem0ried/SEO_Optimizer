@@ -83,11 +83,13 @@ class WebCrawler:
                 logger.warning(f'Skipping non-HTML content: {url}')
                 return
             
-            # 解析页面
+            # 解析页面 - 确保正确处理编码
+            # 先尝试使用响应的编码，如果响应头中没有指定，则使用UTF-8
+            response.encoding = response.apparent_encoding or 'utf-8'
             soup = BeautifulSoup(response.text, 'lxml')
             
-            # 提取基本信息
-            title = soup.title.string if soup.title else 'No Title'
+            # 提取基本信息并确保标题正确编码
+            title = soup.title.string.strip() if soup.title and soup.title.string else 'No Title'
             meta_description = ''
             meta_keywords = ''
             
@@ -195,10 +197,12 @@ class ConcurrentWebCrawler(WebCrawler):
             if 'text/html' not in content_type:
                 return
             
+            # 确保正确处理编码
+            response.encoding = response.apparent_encoding or 'utf-8'
             soup = BeautifulSoup(response.text, 'lxml')
             
             # 提取基本信息（与父类相同）
-            title = soup.title.string if soup.title else 'No Title'
+            title = soup.title.string.strip() if soup.title and soup.title.string else 'No Title'
             meta_description = ''
             meta_keywords = ''
             

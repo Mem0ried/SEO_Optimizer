@@ -186,12 +186,12 @@ def info():
     click.echo("  3. SEO评分和优化建议")
     click.echo("  4. 报告生成")
     click.echo("\n使用示例:")
-    click.echo("  爬取网站: seo-automate crawl https://example.com -d 2 -o results.json")
-    click.echo("  分析SEO: seo-automate analyze https://example.com -d 1 -o report.html")
+    click.echo("  爬取网站: seo-automation crawl https://example.com -d 2 -o results.json")
+    click.echo("  分析SEO: seo-automation analyze https://example.com -d 1 -o report.html")
     click.echo("\n更多帮助:")
-    click.echo("  seo-automate --help")
-    click.echo("  seo-automate crawl --help")
-    click.echo("  seo-automate analyze --help")
+    click.echo("  seo-automation --help")
+    click.echo("  seo-automation crawl --help")
+    click.echo("  seo-automation analyze --help")
 
 
 def _generate_simple_report(output_path: str, url: str, pages: dict, keyword_results: dict, format: str):

@@ -29,28 +29,43 @@ pip install -e .
 
 ### 命令行使用
 
+#### 注意事项
+在使用命令行工具前，请确保已正确安装包（见安装部分）。如果安装后直接使用`seo-automation`命令出现错误，也可以使用Python模块方式运行：
+
+```bash
+python -m src.seo_automation.cli [命令] [参数]
+```
+
 #### 查看帮助信息
 
 ```bash
 seo-automation --help
+# 或使用Python模块方式
+python -m src.seo_automation.cli --help
 ```
 
 #### 爬取网站
 
 ```bash
 seo-automation crawl https://example.com --depth 2 --output results.json
+# 或使用Python模块方式
+python -m src.seo_automation.cli crawl https://example.com --depth 2 --output results.json
 ```
 
 #### 分析网站SEO
 
 ```bash
 seo-automation analyze https://example.com --format html --output report.html
+# 或使用Python模块方式
+python -m src.seo_automation.cli analyze https://example.com --format html --output report.html
 ```
 
 #### 查看工具信息
 
 ```bash
 seo-automation info
+# 或使用Python模块方式
+python -m src.seo_automation.cli info
 ```
 
 ### Python API使用
@@ -155,17 +170,21 @@ print(f"PDF报告已生成: {pdf_path}")
 ## 项目结构
 
 ```
-seo-automation/
+SEO_Optimizer/
 ├── src/
-│   └── seo_automation/
+│   ├── __init__.py          # src包初始化文件
+│   ├── config/              # 配置文件目录
+│   │   ├── __init__.py
+│   │   └── default_config.py
+│   └── seo_automation/      # 主模块目录
 │       ├── __init__.py      # 包初始化文件
 │       ├── crawler.py       # 网站爬虫模块
 │       ├── keyword_analyzer.py  # 关键词分析模块
 │       ├── seo_scorer.py    # SEO评分系统
 │       ├── performance_analyzer.py  # 性能分析模块
 │       ├── report_generator.py     # 报告生成模块
-│       ├── cli.py           # 命令行界面
-│       └── templates/       # 报告模板
+│       └── cli.py           # 命令行界面
+├── templates/               # 报告模板
 ├── tests/                   # 测试文件目录
 ├── requirements.txt         # 依赖列表
 ├── setup.py                 # 安装配置
@@ -222,6 +241,8 @@ seo-automation/
 2. 对于大型网站，建议设置合理的爬取深度和并发数
 3. 生成PDF报告需要安装weasyprint，在某些系统上可能需要额外依赖
 4. 中文关键词分析需要确保jieba库正常工作
+5. 爬虫已经优化处理中文编码问题，支持正确显示中文网页标题和内容
+6. 项目使用Python 3.8+版本开发，建议使用兼容的Python版本
 
 ## 许可证
 

@@ -31,7 +31,7 @@ setup(
         "nltk==3.8.1",
         "pandas==2.0.3",
         "matplotlib==3.7.2",
-        "scikit-learn==1.3.0",
+        "scikit-learn",
         "jinja2==3.1.2",
         "pdfkit==1.0.0",
         "click==8.1.3",
@@ -40,7 +40,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "seo-automate=seo_automation.cli:main",
+            "seo-automation=seo_automation.cli:main",
         ],
     },
     include_package_data=True,
