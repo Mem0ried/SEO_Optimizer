@@ -1,0 +1,2 @@
+[console_scripts]
+seo-automate = seo_automation.cli:main

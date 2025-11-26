@@ -1,0 +1,14 @@
+README.md
+setup.py
+seo_automation.egg-info/PKG-INFO
+seo_automation.egg-info/SOURCES.txt
+seo_automation.egg-info/dependency_links.txt
+seo_automation.egg-info/entry_points.txt
+seo_automation.egg-info/requires.txt
+seo_automation.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_crawler.py
+tests/test_keyword_analyzer.py
+tests/test_performance_analyzer.py
+tests/test_report_generator.py
+tests/test_seo_scorer.py
