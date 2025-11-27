@@ -1,0 +1,896 @@
+2025-11-27 11:05:17,032 - seo_auto_optimizer - ERROR - 配置验证失败，初始化中止
+2025-11-27 11:05:17,034 - seo_auto_optimizer - ERROR - 配置验证失败，初始化中止
+2025-11-27 11:06:42,053 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:06:42,055 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:06:42,055 - seo_auto_optimizer - ERROR - 初始化失败: ConfigManager.get_config() takes from 1 to 2 positional arguments but 3 were given
+2025-11-27 11:06:42,058 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:06:42,058 - seo_auto_optimizer - ERROR - 初始化失败: ConfigManager.get_config() takes from 1 to 2 positional arguments but 3 were given
+2025-11-27 11:09:46,184 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:09:46,185 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:09:46,185 - seo_auto_optimizer - ERROR - 初始化失败: ConfigManager.get_config() takes from 1 to 2 positional arguments but 3 were given
+2025-11-27 11:09:46,187 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:09:46,188 - seo_auto_optimizer - ERROR - 初始化失败: ConfigManager.get_config() takes from 1 to 2 positional arguments but 3 were given
+2025-11-27 11:13:23,387 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:13:23,388 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:13:23,389 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:13:23,392 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:13:23,392 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:14:05,940 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:14:05,942 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:14:05,942 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:14:05,945 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:14:05,946 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:14:52,539 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:14:52,540 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:14:52,541 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:14:52,543 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:14:52,544 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:15:58,279 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:15:58,281 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:15:58,282 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:15:58,285 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:15:58,285 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:19:06,594 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:19:06,597 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:19:06,598 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:19:06,601 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:19:06,601 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:20:44,496 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:20:44,497 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:20:44,498 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:20:44,501 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:20:44,503 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:26:44,054 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:26:44,055 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:26:44,056 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:26:44,058 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:26:44,059 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:28:01,236 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:28:01,237 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:28:01,237 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:28:01,240 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:28:01,241 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:29:28,733 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:29:28,734 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:29:28,735 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:29:28,737 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:29:28,737 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:30:24,610 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:30:24,611 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:30:24,612 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:30:24,614 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:30:24,614 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:31:03,317 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:31:03,318 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:31:03,318 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:31:03,319 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:31:03,319 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:31:03,320 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:31:03,320 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:31:03,321 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:31:03,321 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:31:03,322 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:31:03,324 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:31:03,324 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:31:03,325 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:31:03,325 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:31:03,326 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:31:03,326 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:31:03,327 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:31:03,327 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:31:03,328 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:31:03,328 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:31:03,329 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:31:03,330 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:31:03,331 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:31:45,251 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:31:45,251 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:31:45,252 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:31:45,253 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:31:45,253 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:31:45,253 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:31:45,254 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:31:45,254 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:31:45,255 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:31:45,255 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:31:45,256 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:31:45,258 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:31:45,258 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:31:45,259 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:31:45,259 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:31:45,259 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:31:45,260 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:31:45,261 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:31:45,261 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:31:45,262 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:31:45,262 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:31:45,263 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:31:45,265 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:32:22,268 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:32:22,268 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:32:22,269 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:32:22,269 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:32:22,270 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:32:22,270 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:32:22,271 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:32:22,271 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:32:22,272 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:32:22,272 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:32:22,274 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:32:22,275 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:32:22,276 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:32:22,276 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:32:22,276 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:32:22,277 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:32:22,278 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:32:22,279 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:32:22,279 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:32:22,280 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:32:22,280 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:32:22,281 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:32:22,282 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:33:05,191 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:33:05,192 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:33:05,192 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:33:05,193 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:33:05,193 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:33:05,194 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:33:05,194 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:33:05,195 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:33:05,195 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:33:05,196 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:33:05,196 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 11:33:05,197 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 11:33:05,197 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 11:33:05,198 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 11:33:05,198 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 11:33:05,198 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:33:05,199 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:33:05,200 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:33:05,200 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:33:05,201 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:33:05,201 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:33:05,202 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:33:05,202 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:33:05,203 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:33:05,203 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:33:05,204 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:33:05,204 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 11:33:05,204 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 11:33:05,205 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 11:33:05,205 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 11:33:05,206 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 11:33:05,206 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:33:05,207 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:33:45,079 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:33:45,080 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:33:45,080 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:33:45,081 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:33:45,081 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:33:45,082 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:33:45,082 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:33:45,082 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:33:45,083 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:33:45,084 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 11:33:45,084 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 11:33:45,085 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 11:33:45,085 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 11:33:45,085 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 11:33:45,086 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 11:33:45,086 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:33:45,087 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 11:33:45,088 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 11:33:45,088 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 11:33:45,089 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 11:33:45,089 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 11:33:45,090 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 11:33:45,090 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 11:33:45,091 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 11:33:45,091 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 11:33:45,091 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 11:33:45,092 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 11:33:45,092 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 11:33:45,093 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 11:33:45,093 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 11:33:45,094 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 11:33:45,094 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 11:33:45,095 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:46:57,546 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:46:57,547 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:46:57,548 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:46:57,549 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:46:57,550 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:46:57,551 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:46:57,552 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:46:57,553 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:46:57,553 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:46:57,554 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 13:46:57,557 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:46:57,557 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:46:57,558 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:46:57,558 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:46:57,559 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:46:57,559 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:46:57,561 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:46:57,562 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:46:57,563 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:46:57,563 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:46:57,563 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:46:57,564 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:46:57,564 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:46:57,565 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:46:57,565 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:46:57,566 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:46:57,568 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:46:57,569 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:46:57,569 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:46:57,569 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:46:57,570 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:46:57,570 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:46:57,572 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:50:30,701 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:50:30,702 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:50:30,703 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:50:30,703 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:50:30,704 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:50:30,704 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:50:30,705 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:50:30,706 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:50:30,706 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:50:30,707 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 13:50:30,711 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:50:30,711 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:50:30,712 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:50:30,712 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:50:30,713 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:50:30,713 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:50:30,717 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:50:30,719 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:50:30,719 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:50:30,719 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:50:30,720 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:50:30,720 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:50:30,721 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:50:30,722 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:50:30,722 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:50:30,724 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:50:30,728 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:50:30,729 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:50:30,730 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:50:30,730 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:50:30,731 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:50:30,731 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:50:30,742 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:51:27,061 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:51:27,061 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:51:27,062 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:51:27,062 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:51:27,064 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:51:27,064 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:51:27,065 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:51:27,066 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:51:27,067 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:51:27,067 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 13:51:27,071 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:51:27,071 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:51:27,072 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:51:27,072 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:51:27,073 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:51:27,073 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:51:27,077 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:51:27,078 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:51:27,078 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:51:27,079 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:51:27,079 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:51:27,080 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:51:27,080 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:51:27,081 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:51:27,081 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:51:27,082 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:51:27,086 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:51:27,086 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:51:27,087 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:51:27,088 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:51:27,088 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:51:27,091 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:51:27,095 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:55:28,983 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:55:28,984 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:55:28,984 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:55:28,985 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:55:28,985 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:55:28,986 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:55:28,986 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:55:28,987 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:55:28,987 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:55:28,988 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 13:55:28,991 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:55:28,991 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:55:28,991 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:55:28,992 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:55:28,992 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:55:28,993 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:55:28,997 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:55:28,997 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:55:28,998 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:55:28,998 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:55:28,999 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:55:28,999 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:55:29,000 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:55:29,000 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:55:29,000 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:55:29,001 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:55:29,004 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:55:29,004 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:55:29,005 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:55:29,005 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:55:29,005 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:55:29,006 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:55:29,010 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:56:22,049 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:56:22,050 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:56:22,050 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:56:22,051 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:56:22,051 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:56:22,052 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:56:22,052 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:56:22,053 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:56:22,053 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:56:22,054 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 13:56:22,057 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:56:22,057 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:56:22,058 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:56:22,058 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:56:22,059 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:56:22,059 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:56:22,064 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 13:56:22,064 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 13:56:22,065 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 13:56:22,065 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 13:56:22,066 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 13:56:22,066 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 13:56:22,067 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 13:56:22,067 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 13:56:22,068 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 13:56:22,068 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 13:56:22,071 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 13:56:22,071 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 13:56:22,072 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 13:56:22,072 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 13:56:22,073 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 13:56:22,073 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 13:56:22,079 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:02:24,037 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:02:24,038 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:02:24,038 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:02:24,039 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:02:24,039 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:02:24,039 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:02:24,040 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:02:24,040 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:02:24,041 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:02:24,041 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:02:24,044 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:02:24,045 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:02:24,045 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:02:24,046 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:02:24,047 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:02:24,047 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:02:24,051 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:02:24,052 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:02:24,052 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:02:24,053 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:02:24,053 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:02:24,053 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:02:24,054 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:02:24,054 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:02:24,055 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:02:24,055 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:02:24,058 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:02:24,058 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:02:24,059 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:02:24,059 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:02:24,060 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:02:24,060 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:02:24,065 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:04:06,065 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:04:06,066 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:04:06,066 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:04:06,066 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:04:06,067 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:04:06,067 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:04:06,067 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:04:06,067 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:04:06,067 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:04:06,068 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:04:06,068 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:04:06,069 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:04:06,078 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:04:06,083 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:04:06,084 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:04:06,085 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:04:06,085 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:04:06,086 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:04:06,087 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:04:06,103 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:04:06,103 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:04:06,104 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:04:06,103 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:04:06,106 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:04:06,108 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:04:06,109 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:04:06,111 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:04:06,112 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:04:06,113 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:04:06,116 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:04:06,117 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:04:06,124 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:04:06,127 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:04:06,127 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:04:06,128 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:04:06,128 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:04:06,129 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:04:06,130 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:04:06,130 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:04:06,130 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:04:06,130 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:04:06,131 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:04:06,131 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:04:06,131 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:04:06,132 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:04:06,132 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:04:06,132 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:04:06,133 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:04:06,133 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:04:06,134 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:04:06,134 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:04:06,135 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:04:06,135 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:04:06,136 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:04:06,136 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:04:06,137 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:04:06,137 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:04:06,139 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:04:06,141 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:04:06,143 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:04:06,144 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:04:06,145 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:04:06,146 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:04:06,146 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:04:06,152 - seo_auto_optimizer - ERROR - 初始化失败: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:05:37,174 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:05:37,175 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:05:37,175 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:05:37,175 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:05:37,176 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:05:37,176 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:05:37,177 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:05:37,177 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:05:37,178 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:05:37,179 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:05:37,187 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:05:37,188 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:05:37,188 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:05:37,189 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:05:37,189 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:05:37,190 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:05:37,195 - seo_auto_optimizer - ERROR - 初始化过程中发生严重错误: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:05:37,196 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:05:37,196 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:05:37,196 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:05:37,197 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:05:37,198 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:05:37,198 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:05:37,199 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:05:37,199 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:05:37,200 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:05:37,203 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:05:37,204 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:05:37,204 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:05:37,205 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:05:37,205 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:05:37,205 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:05:37,213 - seo_auto_optimizer - ERROR - 初始化过程中发生严重错误: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:07:31,595 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:07:31,596 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:07:31,596 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:07:31,597 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:07:31,597 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:07:31,598 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:07:31,599 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:07:31,599 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:07:31,601 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:07:31,604 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:07:31,608 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:07:31,610 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:07:31,614 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:07:31,615 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:07:31,616 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:07:31,616 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:07:31,631 - seo_auto_optimizer - ERROR - 初始化过程中发生严重错误: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:07:31,634 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:07:31,641 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:07:31,642 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:07:31,642 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:07:31,643 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:07:31,644 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:07:31,644 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:07:31,645 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:07:31,646 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:07:31,650 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:07:31,651 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:07:31,660 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:07:31,660 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:07:31,661 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:07:31,661 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:07:31,667 - seo_auto_optimizer - ERROR - 初始化过程中发生严重错误: expected str, bytes or os.PathLike object, not ConfigManager
+2025-11-27 14:12:19,693 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:12:19,694 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:12:19,698 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:12:19,699 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:12:19,700 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:12:19,701 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:12:19,701 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:12:19,702 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:12:19,702 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:12:19,703 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:12:19,706 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:12:19,706 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:12:19,706 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:12:19,708 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:12:19,709 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:12:19,709 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:12:19,717 - seo_auto_optimizer - INFO - BackupManager初始化成功
+2025-11-27 14:12:19,718 - seo_auto_optimizer - INFO - SEOAnalyzer初始化成功
+2025-11-27 14:12:19,718 - seo_auto_optimizer - INFO - SuggestionGenerator初始化成功
+2025-11-27 14:12:19,719 - seo_auto_optimizer - INFO - OptimizerExecutor初始化成功
+2025-11-27 14:12:19,720 - seo_auto_optimizer - INFO - ReportGenerator初始化成功
+2025-11-27 14:12:19,720 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:12:19,834 - seo_auto_optimizer - ERROR - 执行分析失败: 'LogManager' object has no attribute 'log_analysis_results'
+2025-11-27 14:13:01,064 - seo_auto_optimizer - INFO - ConfigManager类型: <class 'src.seo_automation.auto_optimizer.config_manager.ConfigManager'>
+2025-11-27 14:13:01,064 - seo_auto_optimizer - INFO - profile_content类型: <class 'dict'>
+2025-11-27 14:13:01,065 - seo_auto_optimizer - INFO - site_path类型: <class 'str'>, 值: D:\traecode\SEO_Optimizer
+2025-11-27 14:13:01,065 - seo_auto_optimizer - INFO - analysis_config类型: <class 'dict'>
+2025-11-27 14:13:01,066 - seo_auto_optimizer - INFO - optimization_config类型: <class 'dict'>
+2025-11-27 14:13:01,066 - seo_auto_optimizer - INFO - backup_config类型: <class 'dict'>
+2025-11-27 14:13:01,067 - seo_auto_optimizer - INFO - file_types类型: <class 'dict'>
+2025-11-27 14:13:01,067 - seo_auto_optimizer - INFO - exclude_patterns类型: <class 'list'>
+2025-11-27 14:13:01,071 - seo_auto_optimizer - INFO - custom_rules类型: <class 'list'>
+2025-11-27 14:13:01,072 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:13:01,075 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:13:01,075 - seo_auto_optimizer - INFO - 从配置获取的backup_dir类型: <class 'str'>, 值: ./seo_backups
+2025-11-27 14:13:01,076 - seo_auto_optimizer - INFO - 创建备份目录: ./seo_backups
+2025-11-27 14:13:01,076 - seo_auto_optimizer - INFO - 从配置获取的report_dir类型: <class 'str'>, 值: ./seo_reports
+2025-11-27 14:13:01,077 - seo_auto_optimizer - INFO - 创建报告目录: ./seo_reports
+2025-11-27 14:13:01,077 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:13:01,080 - seo_auto_optimizer - INFO - BackupManager初始化成功
+2025-11-27 14:13:01,081 - seo_auto_optimizer - INFO - SEOAnalyzer初始化成功
+2025-11-27 14:13:01,082 - seo_auto_optimizer - INFO - SuggestionGenerator初始化成功
+2025-11-27 14:13:01,083 - seo_auto_optimizer - INFO - OptimizerExecutor初始化成功
+2025-11-27 14:13:01,083 - seo_auto_optimizer - INFO - ReportGenerator初始化成功
+2025-11-27 14:13:01,084 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:13:01,119 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 14:16:33,389 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:16:33,393 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:16:33,394 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:16:33,398 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:16:33,439 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 14:40:01,396 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:40:01,397 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:40:01,397 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:40:01,400 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:40:01,401 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:40:01,406 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:40:01,437 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 14:40:37,315 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:40:37,316 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:40:37,317 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:40:37,320 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:40:37,321 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:40:37,327 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:40:37,333 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 14:41:19,190 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:41:19,191 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:41:19,192 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:41:19,196 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:41:19,196 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:41:19,201 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:41:19,206 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 14:42:31,447 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:42:31,447 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:43:30,120 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:43:30,121 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:43:30,121 - seo_auto_optimizer - WARNING - 未设置有效的优化级别，使用默认值 'medium'
+2025-11-27 14:43:30,124 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:43:30,125 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:43:30,131 - seo_auto_optimizer - INFO - SEO自优化程序初始化成功
+2025-11-27 14:43:30,136 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 14:44:34,069 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:44:34,070 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:47:21,735 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:47:21,736 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:49:06,058 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:49:06,059 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:49:44,308 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:49:44,309 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:49:44,322 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:49:44,323 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:49:44,325 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 14:49:44,338 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 14:50:33,045 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:50:33,051 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:50:33,058 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:50:33,059 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:50:33,061 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 14:50:33,064 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 14:55:03,014 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:55:03,014 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:55:03,017 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:55:03,017 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:55:03,025 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:55:03,026 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:55:03,028 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 14:55:03,030 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 14:56:02,956 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:56:02,957 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:56:02,959 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:56:02,960 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:56:02,968 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:56:02,968 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:56:02,970 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 14:56:02,973 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 14:56:54,975 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:56:54,976 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:56:54,979 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:56:54,979 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:56:54,987 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 14:56:54,987 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 14:56:54,989 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 14:56:54,992 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:13:31,960 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:13:31,960 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:13:31,963 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:13:31,963 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:13:31,970 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:13:31,970 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:13:31,972 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 15:13:31,980 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:14:27,900 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:14:27,901 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:14:27,903 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:14:27,903 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:14:27,910 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:14:27,911 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:14:27,913 - seo_auto_optimizer - ERROR - 执行分析失败: 'NoneType' object has no attribute 'analyze_website'
+2025-11-27 15:14:27,916 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:21:05,029 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:21:05,030 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:21:05,032 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:21:05,033 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:21:05,040 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:21:05,041 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:21:05,070 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:21:05,074 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:27:06,616 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:27:06,617 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:27:06,621 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:27:06,622 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:27:06,629 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:27:06,630 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:27:06,841 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:27:06,848 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:28:34,569 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:28:34,569 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:28:34,574 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:28:34,575 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:28:34,582 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:28:34,583 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:28:34,621 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:28:34,627 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:34:10,832 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:34:10,833 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:34:10,836 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:34:10,837 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:34:10,852 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:34:10,852 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:34:10,882 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:34:10,889 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:35:59,878 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:35:59,879 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:35:59,883 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:35:59,883 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:35:59,890 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:35:59,891 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:35:59,925 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:35:59,936 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:45:09,152 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:45:09,153 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:45:09,156 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:45:09,157 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:45:09,167 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:45:09,168 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:45:09,196 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:45:09,209 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:45:35,601 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:45:35,602 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:45:35,626 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:49:13,699 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:49:13,699 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:49:13,702 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:49:13,703 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:49:13,716 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:49:13,717 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:49:13,836 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:49:13,850 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:49:45,560 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:49:45,561 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:49:45,564 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:49:45,565 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:49:45,575 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:49:45,576 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:49:45,610 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=0
+2025-11-27 15:49:45,616 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:50:53,437 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:50:53,438 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:50:53,441 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:50:53,442 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:50:53,451 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:50:53,452 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:50:53,475 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 15:50:53,476 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 15:50:53,477 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 35, 'performance': 100, 'technical': 85}, 'overall_score': 71.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 0, 'present': False, 'length': 0}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': ['添加元描述标签(meta description)']}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 71.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)', '元标签 (得分: 35.0)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '完善所有页面的元标签，包括title、meta description等', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站']}, 'performance_analysis': {'total_size_bytes': 19344, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 71.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 15:50:53,480 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 15:50:53,480 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 15:50:53,480 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 15:50:53,481 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 15:50:53,487 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:53:28,404 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:53:28,405 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:53:28,408 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:53:28,409 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:53:28,417 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:53:28,421 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:53:28,447 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 15:53:28,448 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 15:53:28,449 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 35, 'performance': 100, 'technical': 85}, 'overall_score': 71.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 0, 'present': False, 'length': 0}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': ['添加元描述标签(meta description)']}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 71.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)', '元标签 (得分: 35.0)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '完善所有页面的元标签，包括title、meta description等', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站']}, 'performance_analysis': {'total_size_bytes': 19344, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 71.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 15:53:28,452 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 15:53:28,452 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 15:53:28,453 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 15:53:28,453 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 15:53:28,459 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:55:23,465 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:55:23,469 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:55:23,773 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:55:23,774 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:55:24,080 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:55:24,088 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:55:24,358 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 15:55:24,386 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 15:55:24,420 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 35, 'performance': 100, 'technical': 85}, 'overall_score': 71.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 0, 'present': False, 'length': 0}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': ['添加元描述标签(meta description)']}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 71.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)', '元标签 (得分: 35.0)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '完善所有页面的元标签，包括title、meta description等', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站']}, 'performance_analysis': {'total_size_bytes': 19344, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 71.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 15:55:24,439 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 15:55:24,451 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 15:55:24,465 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 15:55:24,516 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 15:55:24,627 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 15:57:09,935 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:57:09,935 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:57:09,940 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:57:09,941 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:57:09,949 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 15:57:09,950 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 15:57:09,980 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 15:57:09,981 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 15:57:09,981 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 35, 'performance': 100, 'technical': 85}, 'overall_score': 71.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 0, 'present': False, 'length': 0}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': ['添加元描述标签(meta description)']}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 71.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)', '元标签 (得分: 35.0)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '完善所有页面的元标签，包括title、meta description等', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站']}, 'performance_analysis': {'total_size_bytes': 19344, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 71.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 15:57:09,983 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 15:57:09,983 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 15:57:09,983 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 15:57:09,983 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 15:57:09,998 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 16:00:00,443 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:00:00,443 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:00:00,446 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:00:00,447 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:00:00,457 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:00:00,458 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:00:00,483 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 16:00:00,484 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 16:00:00,484 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 35, 'performance': 100, 'technical': 85}, 'overall_score': 71.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 0, 'present': False, 'length': 0}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': ['添加元描述标签(meta description)']}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 71.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 35.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)', '元标签 (得分: 35.0)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '完善所有页面的元标签，包括title、meta description等', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站']}, 'performance_analysis': {'total_size_bytes': 19344, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 71.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 16:00:00,486 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 16:00:00,490 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 16:00:00,490 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 16:00:00,491 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 16:00:00,509 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 1, 失败: 0
+2025-11-27 16:00:34,322 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:00:34,323 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:00:34,353 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 16:00:34,354 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 16:00:34,354 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///d:/traecode/SEO_Optimizer/my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///d:/traecode/SEO_Optimizer/my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 52}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 16:00:34,360 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 16:00:34,361 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 16:00:34,362 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 16:00:34,362 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 16:02:40,422 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:02:40,423 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:02:40,425 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:02:40,426 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:02:40,432 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:02:40,433 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:02:40,454 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 16:02:40,454 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 16:02:40,455 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///d:/traecode/SEO_Optimizer/my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///d:/traecode/SEO_Optimizer/my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 52}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 16:02:40,456 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 16:02:40,456 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 16:02:40,456 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 16:02:40,457 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 16:02:40,463 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 16:54:04,352 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:54:04,353 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:54:04,357 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:54:04,357 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:54:04,364 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 16:54:04,364 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 16:54:04,453 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 16:54:04,454 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 16:54:04,454 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 16:54:04,455 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 16:54:04,455 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 16:54:04,456 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 16:54:04,456 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 16:54:04,461 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 17:04:54,612 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:04:54,612 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:04:54,616 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:04:54,617 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:04:54,626 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:04:54,627 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:04:54,652 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 17:04:54,653 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 17:04:54,653 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 17:04:54,655 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 17:04:54,655 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 17:04:54,656 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 17:04:54,656 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 17:04:54,662 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 17:06:38,997 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:06:38,999 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:06:39,008 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:06:39,009 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:06:39,018 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:06:39,018 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:06:39,057 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 17:06:39,057 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 17:06:39,058 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 17:06:39,060 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 17:06:39,060 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 17:06:39,061 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 17:06:39,061 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 17:06:39,069 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 17:06:39,069 - seo_auto_optimizer - ERROR - 生成报告时出错: ConfigManager.get_config() takes from 1 to 2 positional arguments but 3 were given
+2025-11-27 17:07:09,308 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:07:09,309 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:07:09,312 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:07:09,312 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:07:09,335 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:07:09,336 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:07:09,359 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 17:07:09,359 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 17:07:09,360 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 17:07:09,361 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 17:07:09,362 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 17:07:09,363 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 17:07:09,364 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 17:07:09,371 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
+2025-11-27 17:09:15,281 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:09:15,281 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:09:15,284 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:09:15,284 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:09:15,290 - seo_auto_optimizer - INFO - 开始确保必要的目录存在...
+2025-11-27 17:09:15,290 - seo_auto_optimizer - INFO - 确保必要的目录存在完成
+2025-11-27 17:09:15,309 - seo_auto_optimizer - CRITICAL - CRITICAL: 分析结果详情:
+2025-11-27 17:09:15,310 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results类型: <class 'dict'>
+2025-11-27 17:09:15,310 - seo_auto_optimizer - CRITICAL - CRITICAL: analysis_results内容: {'raw_pages_data': {'index.html': {'url': 'file:///my_site/index.html', 'path': 'index.html', 'title': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能', 'meta_description': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 - 重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发...', 'content': '重庆星霁绘卷游戏科技有限公司 - 创新科技，无限可能 星霁绘卷 StarJi 首页 业务 产品 技术 联系 创新科技，无限可能 重庆星霁绘卷游戏科技有限公司 专注软件开发 | 微信小程序 | AI应用 探索我们的产品 核心业务 💻 软件开发 提供专业的定制化软件开发服务，从需求分析到产品上线，全程技术支持，打造高性能、高可用的软件解决方案。 📱 微信小程序 专注于微信生态小程序开发，结合用户场景，打造流畅体验的轻量级应用，助力企业快速触达用户。 🤖 AI应用开发 融合前沿AI技术，开发智能化应用解决方案，赋能业务场景，提升效率与用户体验。 明星产品 CS饰品雷达 一款面向 CS2 饰品卖家与倒饰玩家的跨平台数据对比与决策分析工具。\n                    通过整合多平台数据、智能分析算法，为用户提供一站式数据支持与自动化定价建议，\n                    帮助用户快速锁定最优售卖渠道，提升交易效率与收益。 🎯 磨损定价透明 精准分析不同磨损等级的市场定价，让每一次交易都有数据支撑 💰 平台差价监控 实时对比多平台价格差异，自动捕捉最佳套利机会 ⚡ 成交速度分析 提供成交速度参考数据，帮助快速决策最优出售时机 🔍 智能推荐引擎 AI驱动的定价建议系统，最大化您的交易收益 📊 多维数据看板 可视化展示市场趋势，让数据一目了然 🔄 实时数据同步 24/7不间断数据更新，确保信息时效性 技术优势 云计算 大数据分析 人工智能 微信生态 跨平台开发 数据可视化 API集成 实时数据处理 智能算法 联系我们 📍 公司地址 重庆市 🏢 公司名称 重庆星霁绘卷游戏科技有限公司 💼 商务合作 期待与您携手共创未来 © 2025 重庆星霁绘卷游戏科技有限公司 版权所有 StarJi Game Technology Co., Ltd.', 'content_length': 785, 'headings': {'h1': ['创新科技，无限可能'], 'h2': ['核心业务', '明星产品', '技术优势', '联系我们'], 'h3': ['软件开发', '微信小程序', 'AI应用开发', 'CS饰品雷达']}, 'images': [], 'links': [{'href': '#home', 'text': '首页', 'title': ''}, {'href': '#services', 'text': '业务', 'title': ''}, {'href': '#product', 'text': '产品', 'title': ''}, {'href': '#tech', 'text': '技术', 'title': ''}, {'href': '#contact', 'text': '联系', 'title': ''}, {'href': '#product', 'text': '探索我们的产品', 'title': ''}], 'status_code': 200, 'response_time': 0, 'depth': 0}}, 'keyword_analysis': {'page_analyses': {'index.html': {'keyword_density': {'重庆星霁绘卷游戏科技有限公司': 4.761904761904762, '创新科技': 2.380952380952381, '无限可能': 2.380952380952381, 'starji': 2.380952380952381, '微信小程序': 2.380952380952381, '星霁绘卷': 1.1904761904761905, '专注软件开发': 1.1904761904761905, 'ai应用': 1.1904761904761905, '探索我们的产品': 1.1904761904761905, '核心业务': 1.1904761904761905}, 'title_keyword_analysis': {'重庆星霁绘卷游戏科技有限公司': {'present': True, 'early_in_title': True}, '创新科技': {'present': True, 'early_in_title': False}, '无限可能': {'present': True, 'early_in_title': False}, 'starji': {'present': False}, '微信小程序': {'present': False}, '星霁绘卷': {'present': True, 'early_in_title': True}, '专注软件开发': {'present': False}, 'ai应用': {'present': False}, '探索我们的产品': {'present': False}, '核心业务': {'present': False}}, 'keyword_recommendations': []}}, 'overall_recommendations': ['基于页面内容进行关键词优化']}, 'seo_scores': {'page_scores': {'index.html': {'url': 'file:///my_site/index.html', 'scores': {'content': 90, 'keywords': 56.5, 'meta_tags': 65, 'performance': 100, 'technical': 85}, 'overall_score': 77.625, 'detailed_analysis': {'content': {'length': {'score': 30, 'actual': 785, 'min_recommended': 300}, 'title': {'score': 10, 'length': 26, 'ideal_length': '50-60 characters'}, 'headings': {'score': 25, 'h1_count': 1, 'has_h2': True, 'has_h3': True}, 'images': {'score': 25, 'total_images': 0, 'images_with_alt': 0, 'alt_ratio': 1.0}}, 'keywords': {'density': {'score': 31.5, 'optimal_range': '1%-3%'}, 'title': {'score': 25.0, 'keywords_in_title': 4}, 'headings': {'score': 0, 'has_h1_keywords': False}, 'placement': {'score': 0}}, 'meta_tags': {'title': {'score': 20, 'present': True, 'length': 26}, 'description': {'score': 30, 'present': True, 'length': 152}, 'keywords': {'score': 5, 'present': False}, 'technical': {'score': 10}}, 'performance': {'response_time': {'score': 40, 'actual': 0, 'unit': 'seconds'}, 'status_code': {'score': 30, 'actual': 200}, 'content_size': {'score': 30, 'actual': 785, 'unit': 'characters'}}, 'technical': {'url_structure': {'score': 20, 'length': 26}, 'internal_links': {'score': 20, 'count': 6}, 'images': {'score': 25, 'total_images': 0, 'alt_coverage': 1.0}, 'mobile_friendly': {'score': 20}}}, 'improvement_suggestions': []}}, 'overall_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0, 'weighted_total': 77.625}, 'site_analysis': {'total_pages': 1, 'category_scores': {'content': 90.0, 'keywords': 56.5, 'meta_tags': 65.0, 'performance': 100.0, 'technical': 85.0}, 'strengths': ['内容质量 (得分: 90.0)', '性能 (得分: 100.0)', '技术SEO (得分: 85.0)'], 'weaknesses': ['关键词优化 (得分: 56.5)'], 'overall_rating': '一般', 'overall_comment': '您的网站SEO状况一般，有较大的优化空间。'}, 'overall_suggestions': ['优化关键词策略，确保关键词密度在合理范围，在标题和内容中正确放置关键词', '基于页面内容进行关键词优化', '定期更新网站内容，保持内容的新鲜度', '增加高质量的外部链接指向您的网站', '确保网站在移动设备上有良好的显示效果']}, 'performance_analysis': {'total_size_bytes': 18992, 'total_size_mb': 0.02, 'resource_counts': {'html': 1, 'css': 0, 'js': 0, 'images': 0, 'other': 0}, 'page_count': 1, 'performance_score': 100.0, 'optimization_suggestions': []}, 'summary': {'total_pages': 1, 'overall_seo_score': 77.625, 'performance_score': 100.0, 'total_resources': 1, 'total_size_mb': 0.02}}
+2025-11-27 17:09:15,311 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data类型: <class 'dict'>
+2025-11-27 17:09:15,311 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data长度: 1
+2025-11-27 17:09:15,312 - seo_auto_optimizer - CRITICAL - CRITICAL: raw_pages_data键: ['index.html']
+2025-11-27 17:09:15,312 - seo_auto_optimizer - INFO - 分析结果概要: 页面数量=1
+2025-11-27 17:09:15,318 - seo_auto_optimizer - INFO - 优化执行完成 - 成功: 0, 失败: 0
