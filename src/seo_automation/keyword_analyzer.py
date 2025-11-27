@@ -17,9 +17,24 @@ logger = logging.getLogger(__name__)
 class KeywordAnalyzer:
     """关键词分析器，用于提取和分析网页中的关键词"""
     
-    def __init__(self):
-        self._download_nltk_resources()
-        self.stop_words = set(stopwords.words('english'))  # 默认使用英文停用词
+    def __init__(self, skip_download=False):
+        """
+        初始化关键词分析器
+        
+        Args:
+            skip_download: 是否跳过NLTK资源下载，默认为False
+        """
+        # 优先尝试加载已有资源，如果失败且未设置跳过下载，则尝试下载
+        if not skip_download:
+            self._download_nltk_resources()
+        
+        # 尝试加载停用词，如果失败则使用自定义停用词
+        try:
+            self.stop_words = set(stopwords.words('english'))  # 默认使用英文停用词
+        except:
+            self.stop_words = set()
+            logger.warning('English stopwords not available, using custom stopwords only')
+            
         # 添加中文停用词支持
         try:
             self.chinese_stop_words = set(stopwords.words('chinese'))
@@ -44,12 +59,26 @@ class KeywordAnalyzer:
         self.all_stop_words = self.stop_words.union(self.extended_stop_words).union(self.chinese_stop_words)
     
     def _download_nltk_resources(self):
-        """下载NLTK所需资源"""
+        """下载NLTK所需资源，添加超时和错误处理"""
         try:
+            # 添加超时机制，避免下载卡住
+            import socket
+            # 设置超时时间为10秒
+            original_timeout = socket.getdefaulttimeout()
+            socket.setdefaulttimeout(10)
+            
             for package in NLTK_CONFIG['DOWNLOAD_PACKAGES']:
-                nltk.download(package, quiet=True)
+                try:
+                    nltk.download(package, quiet=True, raise_on_error=False)
+                except Exception as inner_e:
+                    logger.warning(f'Failed to download NLTK package {package}: {str(inner_e)}')
+                    # 继续尝试下载其他包，不中断
+                    continue
+            
+            # 恢复原始超时设置
+            socket.setdefaulttimeout(original_timeout)
         except Exception as e:
-            logger.error(f'Error downloading NLTK resources: {str(e)}')
+            logger.error(f'Error in NLTK resource download: {str(e)}')
     
     def _preprocess_text(self, text: str) -> List[str]:
         """预处理文本，包括分词、去除停用词等"""
@@ -62,8 +91,13 @@ class KeywordAnalyzer:
         # 移除特殊字符和数字（保留中文和英文单词）
         text = re.sub(r'[^\u4e00-\u9fa5a-zA-Z\s]', ' ', text)
         
-        # 分词
-        tokens = word_tokenize(text)
+        # 分词 - 添加错误处理，避免word_tokenize失败导致整个分析卡住
+        try:
+            tokens = word_tokenize(text)
+        except Exception as e:
+            logger.warning(f'NLTK word_tokenize failed: {str(e)}, using simple split instead')
+            # 降级方案：使用简单的空格分词
+            tokens = text.split()
         
         # 移除停用词、标点和短词
         processed_tokens = [
@@ -333,6 +367,13 @@ class KeywordAnalyzer:
         results['overall_recommendations'] = recommendations
 
 
-def get_keyword_analyzer() -> KeywordAnalyzer:
-    """工厂函数，返回关键词分析器实例"""
-    return KeywordAnalyzer()
+def get_keyword_analyzer(skip_download=False) -> KeywordAnalyzer:
+    """工厂函数，返回关键词分析器实例
+    
+    Args:
+        skip_download: 是否跳过NLTK资源下载，默认为False
+        
+    Returns:
+        KeywordAnalyzer实例
+    """
+    return KeywordAnalyzer(skip_download=skip_download)

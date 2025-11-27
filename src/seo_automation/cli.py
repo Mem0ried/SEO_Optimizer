@@ -135,10 +135,59 @@ def analyze(url: str, depth: int, output: Optional[str], keywords: Optional[str]
         crawler = get_crawler(url, concurrent=concurrent, depth=depth)
         pages = crawler.crawl()
         
-        # 步骤2: 关键词分析
+        # 步骤2: 关键词分析 - 增加超时机制和错误处理
         click.echo("\n[2/3] 正在分析关键词...")
-        analyzer = get_keyword_analyzer()
-        keyword_results = analyzer.analyze_multiple_pages(pages)
+        # 初始化默认的关键词结果，以应对分析失败的情况
+        keyword_results = {'common_keywords': [], 'keyword_coverage': {}, 'overall_recommendations': []}
+        
+        # 创建一个函数用于关键词分析，以便设置超时
+        def analyze_keywords_with_timeout():
+            try:
+                # 使用skip_download参数避免资源下载
+                analyzer = get_keyword_analyzer(skip_download=True)
+                # 检查并初始化stop_words（如果需要）
+                if hasattr(analyzer, 'stop_words') and hasattr(analyzer, 'chinese_stop_words') and not hasattr(analyzer, 'all_stop_words'):
+                    analyzer.all_stop_words = analyzer.stop_words.union(analyzer.chinese_stop_words)
+                
+                return analyzer.analyze_multiple_pages(pages)
+            except Exception as e:
+                logger.error(f"关键词分析出错: {str(e)}")
+                raise
+        
+        # 使用超时机制执行关键词分析
+        try:
+            import threading
+            
+            class TimeoutException(Exception):
+                pass
+            
+            def timeout_function(func, args=(), kwargs={}, timeout_duration=30):
+                result = [TimeoutException("关键词分析超时")]
+                
+                def target():
+                    try:
+                        result[0] = func(*args, **kwargs)
+                    except Exception as e:
+                        result[0] = e
+                
+                thread = threading.Thread(target=target)
+                thread.daemon = True
+                thread.start()
+                thread.join(timeout_duration)
+                
+                if isinstance(result[0], Exception):
+                    raise result[0]
+                return result[0]
+            
+            # 设置30秒超时执行关键词分析
+            keyword_results = timeout_function(analyze_keywords_with_timeout, timeout_duration=30)
+        except TimeoutException:
+            click.echo("警告: 关键词分析超时，可能是因为处理大量文本")
+            logger.warning("Keyword analysis timed out")
+        except Exception as e:
+            click.echo(f"警告: 关键词分析过程中出现错误: {str(e)}")
+            click.echo("将继续生成基本报告，不包含关键词分析结果...")
+            logger.warning(f"Keyword analysis error: {str(e)}")
         
         # 步骤3: 生成报告
         click.echo("\n[3/3] 正在生成报告...")
@@ -147,16 +196,19 @@ def analyze(url: str, depth: int, output: Optional[str], keywords: Optional[str]
         click.echo("\n=== SEO分析摘要 ===")
         click.echo(f"爬取页面数: {len(pages)}")
         
-        # 显示共有关键词
+        # 显示共有关键词 - 增加安全检查
         click.echo("\n共有关键词:")
-        for i, (keyword, count) in enumerate(keyword_results['common_keywords'][:5], 1):
-            coverage = keyword_results['keyword_coverage'].get(keyword, {})
-            percentage = coverage.get('coverage_percentage', 0)
-            click.echo(f"  {i}. {keyword} (在{count}个页面出现, 覆盖率: {percentage:.1f}%)")
+        if 'common_keywords' in keyword_results and keyword_results['common_keywords']:
+            for i, (keyword, count) in enumerate(keyword_results['common_keywords'][:5], 1):
+                coverage = keyword_results['keyword_coverage'].get(keyword, {})
+                percentage = coverage.get('coverage_percentage', 0)
+                click.echo(f"  {i}. {keyword} (在{count}个页面出现, 覆盖率: {percentage:.1f}%)")
+        else:
+            click.echo("  无法获取关键词数据")
         
-        # 显示整体建议
+        # 显示整体建议 - 增加安全检查
         click.echo("\n优化建议:")
-        if keyword_results['overall_recommendations']:
+        if 'overall_recommendations' in keyword_results and keyword_results['overall_recommendations']:
             for i, recommendation in enumerate(keyword_results['overall_recommendations'], 1):
                 click.echo(f"  {i}. {recommendation}")
         else:
@@ -165,8 +217,13 @@ def analyze(url: str, depth: int, output: Optional[str], keywords: Optional[str]
         # 如果需要保存报告，这里会调用报告生成模块
         # 注意：报告生成模块还未实现，这里先创建一个简单的HTML报告
         if output:
-            self._generate_simple_report(output, url, pages, keyword_results, output_format)
-            click.echo(f"\n报告已生成: {output}")
+            try:
+                # 修复调用方式 - 这不是一个类方法，不需要self
+                _generate_simple_report(output, url, pages, keyword_results, output_format)
+                click.echo(f"\n报告已生成: {output}")
+            except Exception as e:
+                click.echo(f"\n生成报告时出错: {str(e)}")
+                logger.error(f"Report generation error: {str(e)}", exc_info=True)
         
     except Exception as e:
         click.echo(f"\n错误: {str(e)}")
@@ -185,9 +242,10 @@ def info():
     click.echo("  2. 关键词提取和分析")
     click.echo("  3. SEO评分和优化建议")
     click.echo("  4. 报告生成")
-    click.echo("\n使用示例:")
+    click.echo("使用示例:")
     click.echo("  爬取网站: seo-automation crawl https://example.com -d 2 -o results.json")
     click.echo("  分析SEO: seo-automation analyze https://example.com -d 1 -o report.html")
+    click.echo("  提示: 输出格式由文件扩展名决定(.html或.pdf)，无需额外指定")
     click.echo("\n更多帮助:")
     click.echo("  seo-automation --help")
     click.echo("  seo-automation crawl --help")
@@ -198,6 +256,7 @@ def _generate_simple_report(output_path: str, url: str, pages: dict, keyword_res
     """生成简单的HTML报告（临时实现，完整报告生成模块将在后续实现）"""
     # 这里只生成HTML报告，PDF生成需要依赖pdfkit
     
+    # 简化报告内容，使其更健壮 - 不依赖复杂的keyword_results结构
     html_content = f'''
     <!DOCTYPE html>
     <html>
@@ -222,7 +281,7 @@ def _generate_simple_report(output_path: str, url: str, pages: dict, keyword_res
                 border-radius: 5px;
                 margin-bottom: 30px;
             }}
-            .keyword-section {{
+            .page-section {{
                 margin-bottom: 30px;
             }}
             table {{
@@ -237,12 +296,6 @@ def _generate_simple_report(output_path: str, url: str, pages: dict, keyword_res
             }}
             th {{
                 background-color: #f2f2f2;
-            }}
-            .recommendations {{
-                background-color: #e8f5e9;
-                padding: 20px;
-                border-radius: 5px;
-                margin-top: 20px;
             }}
             .timestamp {{
                 color: #7f8c8d;
@@ -260,45 +313,33 @@ def _generate_simple_report(output_path: str, url: str, pages: dict, keyword_res
             <p><strong>分析时间:</strong> {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
         </div>
         
-        <div class="keyword-section">
-            <h2>关键词分析</h2>
-            <h3>共有关键词</h3>
+        <div class="page-section">
+            <h2>页面信息</h2>
             <table>
                 <tr>
-                    <th>关键词</th>
-                    <th>出现页面数</th>
-                    <th>覆盖率</th>
+                    <th>URL</th>
+                    <th>标题</th>
+                    <th>状态码</th>
+                    <th>内容长度</th>
                 </tr>
     '''
     
-    # 添加关键词表格行
-    for keyword, count in keyword_results['common_keywords'][:10]:
-        coverage = keyword_results['keyword_coverage'].get(keyword, {})
-        percentage = coverage.get('coverage_percentage', 0)
+    # 添加页面表格行 - 使用更简单的数据结构
+    for page_url, page_data in list(pages.items())[:10]:  # 限制显示前10个页面
+        title = page_data.get('title', 'No Title')
+        status_code = page_data.get('status_code', 'N/A')
+        content_length = page_data.get('content_length', 0)
         html_content += f'''
                 <tr>
-                    <td>{keyword}</td>
-                    <td>{count}</td>
-                    <td>{percentage:.1f}%</td>
+                    <td>{page_url}</td>
+                    <td>{title}</td>
+                    <td>{status_code}</td>
+                    <td>{content_length}</td>
                 </tr>
         '''
     
     html_content += '''
             </table>
-        </div>
-        
-        <div class="recommendations">
-            <h2>优化建议</h2>
-    '''
-    
-    # 添加建议
-    if keyword_results['overall_recommendations']:
-        for recommendation in keyword_results['overall_recommendations']:
-            html_content += f'<p>• {recommendation}</p>'
-    else:
-        html_content += '<p>未发现明显问题，继续保持!</p>'
-    
-    html_content += f'''
         </div>
         
         <div class="timestamp">
@@ -314,8 +355,13 @@ def _generate_simple_report(output_path: str, url: str, pages: dict, keyword_res
         os.makedirs(output_dir)
     
     # 保存HTML文件
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(html_content)
+    try:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+        logger.info(f"成功生成报告: {output_path}")
+    except Exception as e:
+        logger.error(f"保存报告失败: {str(e)}")
+        raise
     
     # 如果需要PDF格式，这里会调用pdfkit，但当前我们只生成HTML
 

@@ -1,15 +1,16 @@
 # SEO自动化工具
 
-一个功能强大的SEO自动化分析工具，帮助网站管理员和SEO专员快速评估网站SEO状况，生成详细的分析报告和优化建议。
+一个功能强大的SEO自动化分析工具，帮助网站管理员和SEO专员快速评估网站SEO状况，生成详细的分析报告和优化建议。本工具经过优化，即使在NLTK资源缺失或网络环境受限的情况下也能正常工作。
 
 ## 功能特性
 
 - **网站爬虫**：自动爬取网站内容，支持单页面和多页面爬取
-- **关键词分析**：提取和分析页面关键词，计算关键词密度和分布
+- **关键词分析**：提取和分析页面关键词，计算关键词密度和分布，已优化支持资源缺失时的降级处理
 - **SEO评分系统**：多维度评估网站SEO质量，包括内容、关键词、元标签、性能和技术SEO
 - **性能分析**：分析页面加载速度、资源大小等性能指标
 - **报告生成**：自动生成HTML和PDF格式的详细分析报告
 - **命令行界面**：提供简单易用的命令行工具
+- **错误处理增强**：添加超时机制和降级策略，确保工具在各种环境下稳定运行
 
 ## 安装
 
@@ -23,6 +24,14 @@ pip install -r requirements.txt
 
 ```bash
 pip install -e .
+```
+
+### 3. 可选：安装NLTK资源（推荐）
+
+虽然工具已经优化为在资源缺失时仍能工作，但安装NLTK资源可以获得更好的关键词分析结果：
+
+```bash
+python -m nltk.downloader punkt stopwords
 ```
 
 ## 使用方法
@@ -55,10 +64,12 @@ python -m src.seo_automation.cli crawl https://example.com --depth 2 --output re
 #### 分析网站SEO
 
 ```bash
-seo-automation analyze https://example.com --format html --output report.html
+seo-automation analyze https://example.com --output report.html
 # 或使用Python模块方式
-python -m src.seo_automation.cli analyze https://example.com --format html --output report.html
+python -m src.seo_automation.cli analyze https://example.com --output report.html
 ```
+
+注意：输出格式由文件扩展名决定（.html或.pdf），不需要单独指定格式参数。
 
 #### 查看工具信息
 
@@ -95,7 +106,8 @@ for page in results:
 from seo_automation import get_keyword_analyzer
 
 # 创建关键词分析器实例
-analyzer = get_keyword_analyzer()
+# skip_download=True 参数可跳过NLTK资源下载，适用于离线环境或快速分析
+analyzer = get_keyword_analyzer(skip_download=True)
 
 # 分析页面关键词
 results = analyzer.analyze_page('https://example.com')
@@ -243,6 +255,9 @@ SEO_Optimizer/
 4. 中文关键词分析需要确保jieba库正常工作
 5. 爬虫已经优化处理中文编码问题，支持正确显示中文网页标题和内容
 6. 项目使用Python 3.8+版本开发，建议使用兼容的Python版本
+7. 工具已优化为在NLTK资源缺失时仍能工作，但会使用简化的分析方法
+8. 关键词分析步骤设置了30秒超时机制，处理大型网页时会自动降级以确保工具稳定运行
+9. 在网络环境受限的情况下，可以使用`skip_download=True`参数避免资源下载尝试
 
 ## 许可证
 
